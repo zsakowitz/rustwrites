@@ -8,5 +8,9 @@ edition = "2021"
 [dependencies]
 
 [[example]]
+name = "linked-list"
+path = "src/linked-list.rs"
+
+[[example]]
 name = "build-toml"
 path = "src/build-toml.rs"
