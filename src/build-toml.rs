@@ -1,3 +1,4 @@
+//! Builds the Cargo.toml file with an example for each file in src.
 use std::fs;
 
 fn main() -> Result<(), std::io::Error> {

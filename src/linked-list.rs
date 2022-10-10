@@ -1,6 +1,5 @@
 //! A LinkedList implementation using enums and Boxes.
-
-#![allow(dead_code, unused_variables)]
+#![allow(dead_code)]
 
 use std::collections::VecDeque;
 
